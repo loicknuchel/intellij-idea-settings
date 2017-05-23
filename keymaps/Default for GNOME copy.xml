@@ -108,6 +108,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl home" />
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="shift alt 3" />
