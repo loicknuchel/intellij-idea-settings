@@ -15,10 +15,7 @@
       <mask>*.mxm</mask>
       <mask>*.mx</mask>
       <mask>*.m</mask>
-      <mask>*.c</mask>
       <mask>*.co</mask>
-      <mask>*.con</mask>
-      <mask>*.conf</mask>
       <mask>src/**.js</mask>
       <mask>src/*.js</mask>
       <mask>src*.js</mask>
@@ -31,6 +28,9 @@
       <mask>*.sc</mask>
       <mask>*.sca</mask>
       <mask>*.scala</mask>
+      <mask>*.c</mask>
+      <mask>*.con</mask>
+      <mask>*.conf</mask>
     </recentFileMasks>
   </component>
 </application>
